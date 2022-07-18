@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500552124629",
+    "project_id": "simulator-firstapp",
+    "storage_bucket": "simulator-firstapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500552124629:android:cf77a1d076ccda13f2fa5c",
+        "android_client_info": {
+          "package_name": "me.dio.firstapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500552124629-6og9hcandtbcrgokt01p2gjvfa9c39ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALb9as6LOvS7vvMbeLWG6vlCFr-nEDXyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500552124629-6og9hcandtbcrgokt01p2gjvfa9c39ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

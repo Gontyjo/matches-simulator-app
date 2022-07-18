@@ -11,6 +11,10 @@ Este repositorio foi organizado em algumas branches que representam as implement
 
 3. Java e Kotlin Juntos!? Construindo Apps Android
   - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/Gontyjo/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
+  
+4. Explorando o Firebase Para Apps Android Resilientes
+  - [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/Gontyjo/matches-simulator-app/tree/release/explorando-o-firebase-para-apps-android-resilientes)
+  
 
 
 
